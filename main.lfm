@@ -70,7 +70,7 @@ object frmMain: TfrmMain
   object wnConn: TSQLite3Connection
     Connected = True
     LoginPrompt = False
-    DatabaseName = '/home/don/Documenten/data/werknemer.db'
+    DatabaseName = '/home/don/stable/up/projects/masterdetail/werknemer.db'
     KeepConnection = False
     Transaction = wnTX
     AlwaysUseBigint = False
